@@ -1,0 +1,38 @@
+# Build artifacts
+zig-out/
+
+# Zig cache directory
+.zig-cache/
+
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# IDE and editor files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS specific
+.DS_Store
+
+# Backup files
+*.bak
+*.old
+*.orig
