@@ -12,6 +12,7 @@ zig-out/
 *.so
 *.dylib
 *.a
+*.pdb
 
 # Temporary files
 *.log
